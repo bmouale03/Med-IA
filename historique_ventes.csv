@@ -1,8 +1,29 @@
-date,médicament,ventes,prix_unitaire
-2025-06-26,Para,2,2.0000000000000004
-2025-06-27,Para,5,2.0000000000000004
-2025-06-28,Para,3,2.0000000000000004
-2025-06-29,Para,8,2.0000000000000004
-2025-06-30,Para,7,2.0000000000000004
-2025-07-01,Para,2,2.0000000000000004
-2025-07-02,Para,6,2.0000000000000004
+date,médicament,ventes,prix_unitaire,pays,ville
+2025-06-26 00:00:00,Para,2,2.0000000000000004,,
+2025-06-27 00:00:00,Para,5,2.0000000000000004,,
+2025-06-28 00:00:00,Para,3,2.0000000000000004,,
+2025-06-29 00:00:00,Para,8,2.0000000000000004,,
+2025-06-30 00:00:00,Para,7,2.0000000000000004,,
+2025-07-01 00:00:00,Para,2,2.0000000000000004,,
+2025-07-02 00:00:00,Para,6,2.0000000000000004,,
+2025-06-26,Epheraglant,2,1.1,Bénin,Cotonou
+2025-06-27,Epheraglant,5,1.1,Bénin,Cotonou
+2025-06-28,Epheraglant,3,1.1,Bénin,Cotonou
+2025-06-29,Epheraglant,4,1.1,Bénin,Cotonou
+2025-06-30,Epheraglant,5,1.1,Bénin,Cotonou
+2025-07-01,Epheraglant,2,1.1,Bénin,Cotonou
+2025-07-02,Epheraglant,5,1.1,Bénin,Cotonou
+2025-06-26,Epheraglant,2,6.0,Côte d’Ivoire,Abidjan
+2025-06-27,Epheraglant,5,6.0,Côte d’Ivoire,Abidjan
+2025-06-28,Epheraglant,3,6.0,Côte d’Ivoire,Abidjan
+2025-06-29,Epheraglant,4,6.0,Côte d’Ivoire,Abidjan
+2025-06-30,Epheraglant,5,6.0,Côte d’Ivoire,Abidjan
+2025-07-01,Epheraglant,2,6.0,Côte d’Ivoire,Abidjan
+2025-07-02,Epheraglant,5,6.0,Côte d’Ivoire,Abidjan
+2025-06-26,Nivaquine,20,5.0,Benin,Parakou
+2025-06-27,Nivaquine,5,5.0,Benin,Parakou
+2025-06-28,Nivaquine,8,5.0,Benin,Parakou
+2025-06-29,Nivaquine,2,5.0,Benin,Parakou
+2025-06-30,Nivaquine,3,5.0,Benin,Parakou
+2025-07-01,Nivaquine,2,5.0,Benin,Parakou
+2025-07-02,Nivaquine,1,5.0,Benin,Parakou
