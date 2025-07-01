@@ -28,7 +28,7 @@ Cette solution intelligente est conçue pour aider les établissements de santé
 - **Tableau de bord en temps réel** avec statut d'alerte automatique.
 - **Visualisation graphique** des tendances de consommation hebdomadaire.
 
-### 🚨 Alertes intelligentes :
+### Alertes intelligentes :
 Chaque médicament est automatiquement marqué :
 - ✅ **OK** si les prévisions indiquent un stock suffisant.
 - ⚠️ **Critique** si une rupture est anticipée.
