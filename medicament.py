@@ -25,8 +25,8 @@ if 'data' not in st.session_state:
             [3, 2, 2, 1, 2, 3, 4]
         ],
         'prix_unitaire': [1.0, 1.5, 2.0, 0.8],
-        'pays': ['France', 'France', 'France', 'France'],
-        'ville': ['Paris', 'Lyon', 'Marseille', 'Paris'],
+        'pays': ['Benin', 'Benin', 'Benin', 'Benin'],
+        'ville': ['Cotonou', 'Parakou', 'Porto-Novo', 'Calavi'],
     }
 
 # Ventes journalières historiques (pour dashboard)
