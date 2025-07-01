@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 import tempfile
 import os
 import pdfkit
+print(pdfkit.__version__) 
 
 st.set_page_config(page_title="Inventaire Médicaments IA", layout="wide")
 
